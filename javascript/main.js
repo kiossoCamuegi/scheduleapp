@@ -1,3 +1,5 @@
+feather.replace();
+
 function ToggleNavbarFilters() {
     let navbar = document.querySelector(".drop-area");
     let table_area = document.querySelector(".table-box");
